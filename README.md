@@ -3,11 +3,15 @@
 
 I am a junior PHP developer from Kraków, Poland. I'm currently learning Laravel.
 
-<!--
+
 ### Skills
+- ⚙️ PHP
+- 👁️ HTML, CSS
+- ⚡ SQL
+- 🔭 Linux
+- 🌱 OOP (basic of C++, C#, Python)
 
-
-
+<!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ... 
 - 👯 I’m looking to collaborate on ...
