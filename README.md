@@ -1,11 +1,12 @@
 ## Hi, I'm Justyna 👋
 
 
-I am a junior PHP developer from Kraków, Poland. I'm currently learning Laravel.
+I am a junior PHP developer from Kraków, Poland.
 
 
 ### Skills
 - ⚙️ PHP
+- 🌱 Laravel
 - 👁️ HTML, CSS
 - ⚡ SQL
 - 🔭 Linux
